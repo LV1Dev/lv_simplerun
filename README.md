@@ -1,6 +1,6 @@
 # lv_simplerun
 
-If you need help with something contact me on discord provided on my profile.
+If you need help with something contact me on discord provided on my profile. (@bitchimathotgetmelit)
 
 This FiveM script facilitates a drug delivery job within the game. It integrates with the ESX framework.
 It was originally made to be a drug delivery script but it can easily be edited to be for example pizza delivery job or something similar.
