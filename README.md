@@ -96,8 +96,8 @@ Copyright (c) 2024 LV1Dev
 
 This script is provided under the following license agreement:
 
-Usage: You are free to download and use this script for personal or commercial purposes within the Grand Theft Auto V multiplayer environment, specifically with the FiveM platform.
-Distribution: You may distribute this script as part of your own projects or server setups.
+Usage: You are free to download and use this script for personal purposes within the Grand Theft Auto V multiplayer environment, specifically with the FiveM platform.
+Distribution: You may NOT distribute this script as part of your own projects or server setups.
 Modification: You are allowed to modify the script to suit your needs or preferences.
 Attribution: While not required, attribution to the original author is appreciated but not mandatory.
 Restrictions:
